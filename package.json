@@ -1,0 +1,25 @@
+{
+  "name": "bookmarkmanagerapi",
+  "version": "1.0.0",
+  "description": "BookMark Manager Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parth117/BookmarkManagerAPI.git"
+  },
+  "author": "Parth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parth117/BookmarkManagerAPI/issues"
+  },
+  "homepage": "https://github.com/parth117/BookmarkManagerAPI#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3"
+  }
+}
